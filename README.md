@@ -1,4 +1,4 @@
 # test
 Java Projects
 
-***Bu bir deneme reposudur.***
+Bu bir deneme reposudur.
